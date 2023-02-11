@@ -1,2 +1,5 @@
 #!/bin/bash
 mkdir -p welcome/to/school
+[master 801d2f7] Tree
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/102-tree
